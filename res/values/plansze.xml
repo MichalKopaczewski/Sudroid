@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<integer-array name="plansza0">
+		<item>7</item> <item>6</item> <item>4</item> <item>9</item> <item>3</item> <item>1</item> <item>8</item> <item>5</item> <item>2</item> 
+		<item>8</item> <item>9</item> <item>1</item> <item>2</item> <item>5</item> <item>6</item> <item>7</item> <item>4</item> <item>3</item> 
+		<item>2</item> <item>3</item> <item>5</item> <item>4</item> <item>7</item> <item>8</item> <item>6</item> <item>1</item> <item>9</item> 
+		<item>4</item> <item>7</item> <item>3</item> <item>1</item> <item>2</item> <item>9</item> <item>5</item> <item>6</item> <item>8</item> 
+		<item>6</item> <item>8</item> <item>2</item> <item>3</item> <item>4</item> <item>5</item> <item>1</item> <item>9</item> <item>7</item> 
+		<item>1</item> <item>5</item> <item>9</item> <item>8</item> <item>6</item> <item>7</item> <item>2</item> <item>3</item> <item>4</item> 
+		<item>5</item> <item>4</item> <item>6</item> <item>7</item> <item>8</item> <item>3</item> <item>9</item> <item>2</item> <item>1</item> 
+		<item>3</item> <item>1</item> <item>7</item> <item>5</item> <item>9</item> <item>2</item> <item>4</item> <item>8</item> <item>6</item> 
+		<item>9</item> <item>2</item> <item>8</item> <item>6</item> <item>1</item> <item>4</item> <item>3</item> <item>7</item> <item>5</item> 
+	</integer-array>
+	<integer-array name="plansza1">
+		<item>5</item> <item>1</item> <item>3</item> <item>9</item> <item>6</item> <item>4</item> <item>8</item> <item>2</item> <item>7</item> 
+		<item>7</item> <item>2</item> <item>6</item> <item>1</item> <item>5</item> <item>8</item> <item>9</item> <item>4</item> <item>3</item> 
+		<item>9</item> <item>4</item> <item>8</item> <item>2</item> <item>3</item> <item>7</item> <item>6</item> <item>1</item> <item>5</item> 
+		<item>4</item> <item>6</item> <item>7</item> <item>5</item> <item>9</item> <item>3</item> <item>2</item> <item>8</item> <item>1</item> 
+		<item>2</item> <item>3</item> <item>5</item> <item>4</item> <item>8</item> <item>1</item> <item>7</item> <item>6</item> <item>9</item> 
+		<item>1</item> <item>8</item> <item>9</item> <item>7</item> <item>2</item> <item>6</item> <item>5</item> <item>3</item> <item>4</item> 
+		<item>8</item> <item>5</item> <item>4</item> <item>6</item> <item>1</item> <item>9</item> <item>3</item> <item>7</item> <item>2</item> 
+		<item>6</item> <item>7</item> <item>2</item> <item>3</item> <item>4</item> <item>5</item> <item>1</item> <item>9</item> <item>8</item> 
+		<item>3</item> <item>9</item> <item>1</item> <item>8</item> <item>7</item> <item>2</item> <item>4</item> <item>5</item> <item>6</item> 
+	</integer-array>
+	
+	<integer-array name="plansza2">
+		<item>9</item> <item>4</item> <item>7</item> <item>6</item> <item>1</item> <item>3</item> <item>5</item> <item>2</item> <item>8</item> 
+		<item>8</item> <item>6</item> <item>3</item> <item>4</item> <item>5</item> <item>2</item> <item>9</item> <item>7</item> <item>1</item> 
+		<item>2</item> <item>5</item> <item>1</item> <item>7</item> <item>8</item> <item>9</item> <item>3</item> <item>4</item> <item>6</item> 
+		<item>3</item> <item>2</item> <item>4</item> <item>9</item> <item>6</item> <item>8</item> <item>7</item> <item>1</item> <item>5</item> 
+		<item>1</item> <item>9</item> <item>6</item> <item>5</item> <item>7</item> <item>4</item> <item>2</item> <item>8</item> <item>3</item> 
+		<item>5</item> <item>7</item> <item>8</item> <item>2</item> <item>3</item> <item>1</item> <item>4</item> <item>6</item> <item>9</item> 
+		<item>7</item> <item>3</item> <item>9</item> <item>1</item> <item>2</item> <item>6</item> <item>8</item> <item>5</item> <item>4</item> 
+		<item>6</item> <item>8</item> <item>2</item> <item>3</item> <item>4</item> <item>5</item> <item>1</item> <item>9</item> <item>7</item> 
+		<item>4</item> <item>1</item> <item>5</item> <item>8</item> <item>9</item> <item>7</item> <item>6</item> <item>3</item> <item>2</item> 
+	</integer-array>
+	
+	<integer-array name="plansza3">
+		<item>2</item> <item>9</item> <item>8</item> <item>5</item> <item>6</item> <item>3</item> <item>4</item> <item>7</item> <item>1</item> 
+		<item>1</item> <item>6</item> <item>4</item> <item>2</item> <item>9</item> <item>7</item> <item>8</item> <item>3</item> <item>5</item> 
+		<item>7</item> <item>5</item> <item>3</item> <item>1</item> <item>8</item> <item>4</item> <item>9</item> <item>6</item> <item>2</item> 
+		<item>9</item> <item>8</item> <item>5</item> <item>7</item> <item>2</item> <item>6</item> <item>3</item> <item>1</item> <item>4</item> 
+		<item>6</item> <item>7</item> <item>1</item> <item>3</item> <item>4</item> <item>8</item> <item>5</item> <item>2</item> <item>9</item> 
+		<item>3</item> <item>4</item> <item>2</item> <item>9</item> <item>5</item> <item>1</item> <item>6</item> <item>8</item> <item>7</item> 
+		<item>8</item> <item>2</item> <item>6</item> <item>4</item> <item>7</item> <item>9</item> <item>1</item> <item>5</item> <item>3</item> 
+		<item>4</item> <item>3</item> <item>7</item> <item>6</item> <item>1</item> <item>5</item> <item>2</item> <item>9</item> <item>8</item> 
+		<item>5</item> <item>1</item> <item>9</item> <item>8</item> <item>3</item> <item>2</item> <item>7</item> <item>4</item> <item>6</item> 
+	</integer-array>
+	
+	<integer-array name="plansza4">
+		<item>5</item> <item>2</item> <item>6</item> <item>3</item> <item>8</item> <item>7</item> <item>1</item> <item>4</item> <item>9</item> 
+		<item>3</item> <item>1</item> <item>8</item> <item>5</item> <item>4</item> <item>9</item> <item>7</item> <item>2</item> <item>6</item> 
+		<item>4</item> <item>9</item> <item>7</item> <item>6</item> <item>1</item> <item>2</item> <item>5</item> <item>8</item> <item>3</item> 
+		<item>6</item> <item>7</item> <item>1</item> <item>2</item> <item>3</item> <item>8</item> <item>9</item> <item>5</item> <item>4</item> 
+		<item>2</item> <item>5</item> <item>9</item> <item>4</item> <item>7</item> <item>6</item> <item>3</item> <item>1</item> <item>8</item> 
+		<item>8</item> <item>3</item> <item>4</item> <item>1</item> <item>9</item> <item>5</item> <item>6</item> <item>7</item> <item>2</item> 
+		<item>7</item> <item>6</item> <item>2</item> <item>9</item> <item>5</item> <item>4</item> <item>8</item> <item>3</item> <item>1</item> 
+		<item>9</item> <item>8</item> <item>3</item> <item>7</item> <item>2</item> <item>1</item> <item>4</item> <item>6</item> <item>5</item> 
+		<item>1</item> <item>4</item> <item>5</item> <item>8</item> <item>6</item> <item>3</item> <item>2</item> <item>9</item> <item>7</item> 
+	</integer-array>
+	
+	<integer-array name="plansza5">
+		<item>1</item> <item>9</item> <item>5</item> <item>4</item> <item>6</item> <item>7</item> <item>2</item> <item>3</item> <item>8</item> 
+		<item>4</item> <item>2</item> <item>8</item> <item>3</item> <item>5</item> <item>1</item> <item>7</item> <item>9</item> <item>6</item> 
+		<item>6</item> <item>3</item> <item>7</item> <item>9</item> <item>2</item> <item>8</item> <item>1</item> <item>4</item> <item>5</item> 
+		<item>7</item> <item>1</item> <item>6</item> <item>8</item> <item>9</item> <item>4</item> <item>5</item> <item>2</item> <item>3</item> 
+		<item>9</item> <item>4</item> <item>3</item> <item>5</item> <item>1</item> <item>2</item> <item>6</item> <item>8</item> <item>7</item> 
+		<item>8</item> <item>5</item> <item>2</item> <item>7</item> <item>3</item> <item>6</item> <item>9</item> <item>1</item> <item>4</item> 
+		<item>2</item> <item>7</item> <item>4</item> <item>1</item> <item>8</item> <item>5</item> <item>3</item> <item>6</item> <item>9</item> 
+		<item>5</item> <item>6</item> <item>9</item> <item>2</item> <item>4</item> <item>3</item> <item>8</item> <item>7</item> <item>1</item> 
+		<item>3</item> <item>8</item> <item>1</item> <item>6</item> <item>7</item> <item>9</item> <item>4</item> <item>5</item> <item>2</item> 
+	</integer-array>
+	
+	<integer-array name="plansza6">
+		<item>1</item> <item>7</item> <item>5</item> <item>2</item> <item>3</item> <item>8</item> <item>4</item> <item>9</item> <item>6</item> 
+		<item>2</item> <item>4</item> <item>8</item> <item>6</item> <item>9</item> <item>5</item> <item>3</item> <item>1</item> <item>7</item> 
+		<item>6</item> <item>9</item> <item>3</item> <item>4</item> <item>1</item> <item>7</item> <item>2</item> <item>5</item> <item>8</item> 
+		<item>7</item> <item>5</item> <item>9</item> <item>3</item> <item>8</item> <item>6</item> <item>1</item> <item>4</item> <item>2</item> 
+		<item>8</item> <item>1</item> <item>4</item> <item>9</item> <item>7</item> <item>2</item> <item>6</item> <item>3</item> <item>5</item> 
+		<item>3</item> <item>6</item> <item>2</item> <item>5</item> <item>4</item> <item>1</item> <item>8</item> <item>7</item> <item>9</item> 
+		<item>4</item> <item>8</item> <item>1</item> <item>7</item> <item>2</item> <item>9</item> <item>5</item> <item>6</item> <item>3</item> 
+		<item>5</item> <item>3</item> <item>7</item> <item>8</item> <item>6</item> <item>4</item> <item>9</item> <item>2</item> <item>1</item> 
+		<item>9</item> <item>2</item> <item>6</item> <item>1</item> <item>5</item> <item>3</item> <item>7</item> <item>8</item> <item>4</item> 
+	</integer-array>
+	
+	<integer-array name="plansza7">
+		<item>1</item> <item>5</item> <item>7</item> <item>9</item> <item>3</item> <item>8</item> <item>4</item> <item>6</item> <item>2</item> 
+		<item>2</item> <item>8</item> <item>4</item> <item>7</item> <item>6</item> <item>5</item> <item>9</item> <item>3</item> <item>1</item> 
+		<item>9</item> <item>6</item> <item>3</item> <item>2</item> <item>4</item> <item>1</item> <item>8</item> <item>5</item> <item>7</item> 
+		<item>4</item> <item>1</item> <item>5</item> <item>8</item> <item>2</item> <item>6</item> <item>3</item> <item>7</item> <item>9</item> 
+		<item>6</item> <item>2</item> <item>9</item> <item>5</item> <item>7</item> <item>3</item> <item>1</item> <item>4</item> <item>8</item> 
+		<item>7</item> <item>3</item> <item>8</item> <item>4</item> <item>1</item> <item>9</item> <item>6</item> <item>2</item> <item>5</item> 
+		<item>3</item> <item>9</item> <item>6</item> <item>1</item> <item>5</item> <item>2</item> <item>7</item> <item>8</item> <item>4</item> 
+		<item>5</item> <item>7</item> <item>1</item> <item>6</item> <item>8</item> <item>4</item> <item>2</item> <item>9</item> <item>3</item> 
+		<item>8</item> <item>4</item> <item>2</item> <item>3</item> <item>9</item> <item>7</item> <item>5</item> <item>1</item> <item>6</item> 
+	</integer-array>
+	
+	<integer-array name="plansza8">
+		<item>9</item> <item>1</item> <item>5</item> <item>2</item> <item>7</item> <item>6</item> <item>3</item> <item>4</item> <item>8</item> 
+		<item>8</item> <item>4</item> <item>6</item> <item>9</item> <item>5</item> <item>3</item> <item>1</item> <item>7</item> <item>2</item> 
+		<item>2</item> <item>3</item> <item>7</item> <item>1</item> <item>8</item> <item>4</item> <item>9</item> <item>5</item> <item>6</item> 
+		<item>4</item> <item>9</item> <item>1</item> <item>3</item> <item>2</item> <item>7</item> <item>8</item> <item>6</item> <item>5</item> 
+		<item>5</item> <item>6</item> <item>2</item> <item>8</item> <item>1</item> <item>9</item> <item>7</item> <item>3</item> <item>4</item> 
+		<item>3</item> <item>7</item> <item>8</item> <item>4</item> <item>6</item> <item>5</item> <item>2</item> <item>1</item> <item>9</item> 
+		<item>6</item> <item>8</item> <item>4</item> <item>7</item> <item>9</item> <item>1</item> <item>5</item> <item>2</item> <item>3</item> 
+		<item>7</item> <item>5</item> <item>9</item> <item>6</item> <item>3</item> <item>2</item> <item>4</item> <item>8</item> <item>1</item> 
+		<item>1</item> <item>2</item> <item>3</item> <item>5</item> <item>4</item> <item>8</item> <item>6</item> <item>9</item> <item>7</item> 
+	</integer-array>
+	
+	<integer-array name="plansza9">
+		<item>8</item> <item>3</item> <item>9</item> <item>6</item> <item>2</item> <item>1</item> <item>5</item> <item>7</item> <item>4</item> 
+		<item>1</item> <item>4</item> <item>6</item> <item>8</item> <item>7</item> <item>5</item> <item>9</item> <item>3</item> <item>2</item> 
+		<item>7</item> <item>5</item> <item>2</item> <item>3</item> <item>4</item> <item>9</item> <item>6</item> <item>1</item> <item>8</item> 
+		<item>2</item> <item>6</item> <item>3</item> <item>4</item> <item>9</item> <item>8</item> <item>1</item> <item>5</item> <item>7</item> 
+		<item>5</item> <item>8</item> <item>7</item> <item>1</item> <item>3</item> <item>2</item> <item>4</item> <item>9</item> <item>6</item> 
+		<item>4</item> <item>9</item> <item>1</item> <item>5</item> <item>6</item> <item>7</item> <item>2</item> <item>8</item> <item>3</item> 
+		<item>3</item> <item>2</item> <item>5</item> <item>9</item> <item>8</item> <item>4</item> <item>7</item> <item>6</item> <item>1</item> 
+		<item>9</item> <item>7</item> <item>8</item> <item>2</item> <item>1</item> <item>6</item> <item>3</item> <item>4</item> <item>5</item> 
+		<item>6</item> <item>1</item> <item>4</item> <item>7</item> <item>5</item> <item>3</item> <item>8</item> <item>2</item> <item>9</item> 
+	</integer-array>	
+</resources>

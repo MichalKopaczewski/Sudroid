@@ -1,0 +1,52 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="${packageName}.${activityClass}" >
+
+    <Button
+        android:id="@+id/przyciskWyjscie"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/przyciskAutor"
+        android:layout_below="@+id/przyciskAutor"
+        android:layout_marginTop="30dp"
+        android:height="48dp"
+        android:text="@string/exitButLabel"
+        android:width="120dp" />
+
+    <Button
+        android:id="@+id/przyciskAutor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:height="48dp"
+        android:text="@string/authorButLabel"
+        android:width="120dp" />
+
+    <Button
+        android:id="@+id/przyciskNowaGra"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/ranking"
+        android:layout_alignLeft="@id/przyciskAutor"
+        android:layout_marginBottom="30dp"
+        android:height="48dp"
+        android:maxWidth="120dp"
+        android:text="@string/newGameButLabel"
+        android:width="120dp" />
+
+    <Button
+        android:id="@+id/ranking"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/przyciskAutor"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="30dp"
+        android:height="48dp"
+        android:maxWidth="120dp"
+        android:text="@string/rankButLabel"
+        android:width="120dp"/>
+
+</RelativeLayout>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sudoku</string>
+    <string name="autor">Michał Kopaczewski</string>
+    <string name="authorButLabel">Author</string>
+    <string name="exitButLabel">Exit</string>
+    <string name="newGameButLabel">New game</string>
+    <string name="menuButLabel">Menu</string>
+    <string name="title_activity_nowa_gra">NowaGra</string>
+    <string name="checkButLabel">Check</string>
+    <string name="startPauseButLabel">Start</string>
+    <string name="boardFieldDefaultLabel">0</string>
+    <string name="title_activity_koniec_gry">KoniecGry</string>
+    <string name="title_activity_koniec_przegrales">KoniecPrzegrales</string>
+    <string name="title_activity_koniec_wygrales">KoniecWygrales</string>
+    <string name="rankButLabel">Ranking</string>
+    <string name="yourTimeLabel">Your time is:</string>
+    <string name="saveScoreButLabel">Save score</string>
+    <string name="youWonLabel">You won!</string>
+    <string name="defaultTime">0 minute 0 second</string>
+    <string name="sekunda">second</string>
+    <string name="sekund">seconds</string>
+    <string name="sekundy">seconds</string>
+    <string name="minuta">minute</string>
+    <string name="minut">minutes</string>
+    <string name="minuty">minutes</string>
+    <string name="title_activity_zapisz_wynik">ZapiszWynik</string>
+    <string name="title_activity_ranking">Ranking</string>
+    <string name="action_settings">Settings</string>
+    <string name="rubberbut">Erase</string>
+
+</resources>
